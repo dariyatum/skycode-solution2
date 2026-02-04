@@ -12,6 +12,7 @@ import Footer from './components/Footer.vue'
     <Card title="Wind Speed" value="12 km/h" icon="🌬️" />
   </div>
 
+
   <Footer />
   <RouterView />
 </template>
