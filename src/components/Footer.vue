@@ -22,7 +22,7 @@
               type="email"
               required
               placeholder="Enter your email"
-              class="bg-transparent border border-gray-600 rounded-full py-3 px-6 w-full md:w-80 focus:outline-none focus:border-green-500"
+              class="bg-transparent border border-gray-600 rounded-full py-3 px-6 w-full md:w-80 focus:outline-none focus:border[#FFFF00] transition"
             />
             <button
               class="absolute right-1 bg-[#FFFF00] hover:bg-[#FFFACD] active:scale-95 transition text-black px-6 py-2 rounded-full"
