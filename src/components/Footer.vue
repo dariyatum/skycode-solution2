@@ -1,5 +1,4 @@
 
-
 <template>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css">
   <footer class="bg-[#0f0f0f] text-white px-6 md:px-16 pt-16 font-sans">
@@ -14,6 +13,8 @@
 
         <div class="w-full md:w-auto">
           <p class="mb-3 font-semibold text-lg">Get In Touch!</p>
+
+
           <form
             @submit.prevent="handleSubscribe"
             class="relative flex items-center"
@@ -30,6 +31,7 @@
               Subscribe
             </button>
           </form>
+
         </div>
       </div>
 
@@ -125,4 +127,8 @@
       </div>
     </div>
   </footer>
+
 </template>
+
+</template>
+
