@@ -1,4 +1,5 @@
 <template>
+
   <div class="w-full min-h-screen bg-[#111] text-white mt-154" style="margin-top: 154px;">
 
     <div class="w-screen bg-yellow-600 py-24 m">
@@ -109,4 +110,6 @@
 
     
   </div>
+
+
 </template>
